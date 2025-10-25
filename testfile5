@@ -1,0 +1,20 @@
+Task – Create a Stylish Contact Form
+Objective:
+Recreate the given contact form design exactly as shown in the reference image.
+Requirements:
+1.Header Section
+Title: CONTACT US
+Subtitle: Fill out the form below to learn more!
+Background image (blurred effect optional but appreciated).
+2.Form Fields
+First Name (text input)
+Last Name (text input)
+Email (text input with required validation)
+Comments (textarea)
+3.Submit Button
+Style it similar to the sample image (blue background, white text).
+Add hover effect.
+4.Layout & Styling
+Center the form on the page.
+Use consistent margins, and font sizes.
+Form should be responsive (look good on mobile to submit button.
